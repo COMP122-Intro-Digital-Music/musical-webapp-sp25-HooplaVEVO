@@ -1,7 +1,7 @@
 [
     {
         "name": "2Seater_1",
-        "file": "samples/2Seater_Piano_Sample.mp3",
+        "file": "samples/2Seater_Piano_Sample.wav",
         "bpm": "120",
         "loop": "1m",
         "grainSize": 0.04,
@@ -9,7 +9,7 @@
       },
       {
         "name": "2Seater_2",
-        "file": "samples/2Seater_Piano_Sample_2.mp3",
+        "file": "samples/2Seater_Piano_Sample_2.wav",
         "bpm": "120",
         "loop": "2m",
         "grainSize": 0.04,
@@ -17,7 +17,7 @@
       },
       {
         "name": "St.Stephen",
-        "file": "samples/GD_St.Stephen_Sample.mp3",
+        "file": "samples/GD_St.Stephen_Sample.wav",
         "bpm": "128",
         "loop": "1m",
         "grainSize": 0.04,
